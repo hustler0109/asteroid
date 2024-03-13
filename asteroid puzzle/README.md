@@ -22,7 +22,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Acknowledgements
 
-This implementation of Fifteen Sliding Puzzle was created by [Your Name]. Special thanks to [Name] for inspiration or assistance during development.
+This implementation of Fifteen Sliding Puzzle was created by Shristy Joshi Thakur. 
 
 ---
 
